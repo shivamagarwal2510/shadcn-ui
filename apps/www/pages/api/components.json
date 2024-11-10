@@ -447,5 +447,15 @@
       }
     ],
     "type": "ui"
+  },
+  {
+    "name": "notification-badge",
+    "files": [
+      {
+        "name": "notification-badge.tsx",
+        "dir": "components/ui"
+      }
+    ],
+    "type": "ui"
   }
 ]

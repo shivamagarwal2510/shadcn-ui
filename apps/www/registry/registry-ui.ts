@@ -609,4 +609,15 @@ export const ui: Registry = [
       },
     ],
   },
+  {
+    name: "notification-badge",
+    type: "registry:ui",
+    registryDependencies: ["button"],
+    files: [
+      {
+        path: "ui/notification-badge.tsx",
+        type: "registry:ui",
+      },
+    ],
+  },
 ]
